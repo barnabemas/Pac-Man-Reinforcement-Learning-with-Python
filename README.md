@@ -1,4 +1,4 @@
-# pac-man
+# Pac-Man
 
 This is an implementation of Pac-Man with a slightly modified set of rules.
 We designed two agents in order to clear the game, one using Approximate Q-Learning, the other using Deep Q-Network.
